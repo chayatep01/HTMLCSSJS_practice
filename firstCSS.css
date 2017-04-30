@@ -1,0 +1,30 @@
+ #internalCss{
+        
+        background-color:red;
+        font-size:30;
+        color:white;
+        text-align:center;
+        width:150px;
+        height:80px;
+        
+        
+    } 
+    .positionClass{
+        font-size: 100;
+        
+        position:relative;
+        left:50px;
+
+        
+    }
+    #internalCssJS{
+        background-color:black;
+        font-family: Courier New, Courier, monospace;
+        color:antiquewhite;
+        width:170px;
+        
+
+    }
+    body{
+        font-family: Courier New, Courier, monospace;
+    }
